@@ -1,0 +1,9 @@
+# Copy to client.properties and fill your creds
+bootstrap.servers.1=
+sasl.username.1=
+sasl.password.1=
+bootstrap.servers.2=
+sasl.username.2=
+sasl.password.2=
+security.protocol=SASL_SSL
+sasl.mechanisms=PLAIN
