@@ -4,7 +4,7 @@
 Create + search topics across clusters using **client.properties** config. 
 No hardcode—scales to N clusters from file/Excel.
 
-**Demo Video**: <>
+**Demo Video**: <https://github.com/ganeshrex/ganeshkumar-confluent-challenge/blob/main/Screen%20Recording%202026-03-17%20at%2015.36.13.mov>
 
 **Live Console**: 
 - AWS: pkc-921jm (topics: rollback-test_win, bank-fraud-v1)
